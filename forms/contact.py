@@ -1,6 +1,6 @@
 import re
 
-import streamlit as st
+import streamlit as st # type: ignore #tag
 import requests  # pip install requests
 
 

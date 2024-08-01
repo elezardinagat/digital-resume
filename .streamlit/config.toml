@@ -11,8 +11,5 @@ secondaryBackgroundColor = "#547980"
 # Color used for almost all text.
 textColor = "#ffffff"
 
-# Font Family Globally.
-font="sans serif Helvetica"
-
 [client]
 toolbarMode = "minimal"

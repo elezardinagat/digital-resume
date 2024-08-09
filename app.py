@@ -31,7 +31,7 @@ def show_contact_form():
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
 
 # Path to your PDF file
-pdf_path = "assets/cv.pdf"
+pdf_path = "assets/resume.pdf"
 
 # Read the PDF file in binary mode
 with open(pdf_path, "rb") as file:

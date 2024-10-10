@@ -64,7 +64,7 @@ with col2:
 skills = {
     "PHP | C# | HTML | CSS": 90,
     "Python | JavaScript | React | Angular | Laravel": 80,
-    "WordPress Development": 90,
+    "WordPress Development | E-commerce": 90,
     "Database Management": 80,
     "Project Management": 90,
     "Git | Adobe Creative Suit | Canva | Figma": 85,
@@ -107,7 +107,7 @@ with tab1:
     st.subheader("Technical Skills", anchor=False)
 
     txt3('Programming Languages', '`PHP`, `Python`, `JavaScript`, `C#`')
-    txt3('Web Development', '`WordPress`, `HMTL`, `CSS`, `Bootstrap`, `Laravel`, `React`, `Angular`')
+    txt3('Web Development', '`WordPress`, `E-commerce`, `HMTL`, `CSS`, `Bootstrap`, `Laravel`, `React`, `Angular`')
     txt3('Database Management', '`MySQL`, `MS SQL`, `MS Access`')
     txt3('Graphics Design', '`Adobe Creative Suite`, `Canva`, `Figma`')
     txt3('Technical Support', '`System security`, `data backup`, `recovery processes`')
